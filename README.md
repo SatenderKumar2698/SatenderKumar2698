@@ -4,7 +4,7 @@ Welcome to my GitHub profile! 🚀
 
 Visit my portfolio:-  https://visionary-semolina-892341.netlify.app/
 
-Or click here: [View My Resume](https://drive.google.com/file/d/1FyM5rw4chYEmLI2ippGvXbUg0Pm1vAdS/view?usp=sharing)
+Or click here: [View My Resume](https://drive.google.com/file/d/1Uf8Dg308LxH2J1BErxpxmjVApoSpGNnw/view?usp=sharing)
 
 ## 🧑‍💻 About Me
 [![Resume](https://img.shields.io/badge/Resume-View-blue)]([https://github.com/SatenderKumar2698/SatenderKumar2698/blob/main/SatenderKumar_Resume.pdf](https://drive.google.com/file/d/1FyM5rw4chYEmLI2ippGvXbUg0Pm1vAdS/view?usp=sharing))
