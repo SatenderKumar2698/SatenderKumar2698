@@ -7,7 +7,8 @@ Visit my portfolio:-  https://visionary-semolina-892341.netlify.app/
 Or click here: [View My Resume](https://drive.google.com/file/d/1Uf8Dg308LxH2J1BErxpxmjVApoSpGNnw/view?usp=sharing)
 
 ## 🧑‍💻 About Me
-[![Resume](https://img.shields.io/badge/Resume-View-blue)]([https://github.com/SatenderKumar2698/SatenderKumar2698/blob/main/SatenderKumar_Resume.pdf](https://drive.google.com/file/d/1FyM5rw4chYEmLI2ippGvXbUg0Pm1vAdS/view?usp=sharing))
+[![Resume](https://img.shields.io/badge/Resume-View-blue)](https://drive.google.com/file/d/1bkkOhz32u-oy0b1zFEyo1q4bU2vQhi7G/view?usp=sharing)
+
 
 - 🎓 **Masters in computer application** with a passion for technology and innovation  
 - 🏢 Completed my internship as a **Salesforce Admin** at *Barco*
