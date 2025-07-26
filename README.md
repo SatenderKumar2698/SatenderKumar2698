@@ -4,7 +4,8 @@ Welcome to my GitHub profile! 🚀
 
 Visit my portfolio:-  https://visionary-semolina-892341.netlify.app/
 
-Or click here: [View My Resume](https://drive.google.com/file/d/1Uf8Dg308LxH2J1BErxpxmjVApoSpGNnw/view?usp=sharing)
+Or click here: [View My Resume](https://drive.google.com/file/d/1bkkOhz32u-oy0b1zFEyo1q4bU2vQhi7G/view?usp=sharing)
+
 
 ## 🧑‍💻 About Me
 [![Resume](https://img.shields.io/badge/Resume-View-blue)](https://drive.google.com/file/d/1bkkOhz32u-oy0b1zFEyo1q4bU2vQhi7G/view?usp=sharing)
