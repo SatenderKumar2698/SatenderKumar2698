@@ -1,23 +1,30 @@
-# 👋 Hi, I'm Satender Kumar!
+## 👋 Hi, I'm Satender Kumar
 
 Welcome to my GitHub profile! 🚀
 
-Visit my portfolio:-  https://visionary-semolina-892341.netlify.app/
+I’m a Passionate Developer & Tech Enthusiast who loves building scalable apps, working with databases, and exploring cloud technologies.
 
-Or click here: [View My Resume](https://drive.google.com/file/d/1bkkOhz32u-oy0b1zFEyo1q4bU2vQhi7G/view?usp=sharing)
+Visit **my portfolio**:-  https://visionary-semolina-892341.netlify.app/
+
+Or **click here**: [View My Resume](https://drive.google.com/file/d/1bkkOhz32u-oy0b1zFEyo1q4bU2vQhi7G/view?usp=sharing)
 
 
 ## 🧑‍💻 About Me
 [![Resume](https://img.shields.io/badge/Resume-View-blue)](https://drive.google.com/file/d/1bkkOhz32u-oy0b1zFEyo1q4bU2vQhi7G/view?usp=sharing)
 
 
-- 🎓 **Masters in computer application** with a passion for technology and innovation  
-- 🏢 Completed my internship as a **Salesforce Admin** at *Barco*
-- 🚀 Currently exploring the latest in **Web Development** and **Cloud Solutions**
-- 💡 I enjoy building interactive and scalable apps, automating processes, and learning new tech!
-- 💬 Ask me about:  
+-🎓 Pursuing Masters in Computer Application (MCA)
+
+-🏢 Internship experience as a Salesforce Administrator at Barco
+
+-💡 Passionate about Web Development, Databases, and Cloud Solutions
+
+-⚡ Skilled in both Frontend & Backend Development
+
+💬 Ask me about:
+ 
   &nbsp;&nbsp;&nbsp;&nbsp;• Web Development (React, Angular, HTML, CSS, JavaScript)  
-  &nbsp;&nbsp;&nbsp;&nbsp;• Databases (MySQL, SQL)  
+  &nbsp;&nbsp;&nbsp;&nbsp;• Databases (SQL, MySQL, PL/SQL, Oracle)  
   &nbsp;&nbsp;&nbsp;&nbsp;• Salesforce Administration  
   &nbsp;&nbsp;&nbsp;&nbsp;• Python Programming
 - 📫 How to reach me: **Satender2698@gmail.com**
@@ -33,6 +40,8 @@ Or click here: [View My Resume](https://drive.google.com/file/d/1bkkOhz32u-oy0b1
 ![Salesforce](https://img.shields.io/badge/-Salesforce-333?style=flat&logo=salesforce)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-333?style=flat&logo=angular)
+![Oracle](https://img.shields.io/badge/-Oracle-333?style=flat&logo=oracle)
+![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-333?style=flat&logo=oracle)
 
 ## 📊 GitHub Stats
 
