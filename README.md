@@ -1,14 +1,14 @@
 # Satender Kumar
 
 Software Developer • MCA  
-Salesforce Administrator (intern @ Barco)
+Salesforce Administrator (intern @ Barco) • Frontend Intern (completed @ Outrix)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-0EA5A4?style=for-the-badge&logo=netlify&logoColor=white "View portfolio — opens your site")](https://visionary-semolina-892341.netlify.app "Open portfolio") [![Resume](https://img.shields.io/badge/Resume-View-0366D6?style=for-the-badge&logo=googledrive&logoColor=white "Open resume (Google Drive)")](https://drive.google.com/file/d/1bkkOhz32u-oy0b1zFEyo1q4bU2vQhi7G/view?usp=sharing "Open resume") [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "Visit my LinkedIn profile")](https://www.linkedin.com/in/satender-kumar-340038264 "LinkedIn") [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white "Send me an email")](mailto:Satender2698@gmail.com "Email Satender")
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-0EA5A4?style=for-the-badge&logo=netlify&logoColor=white "View portfolio — opens your site")](https://visionary-semolina-892341.netlify.app "Open portfolio") [![Resume](https://img.shields.io/badge/Resume-View-0366D6?style=for-the-badge&logo=googledrive&logoColor=white "Open resume (Google Drive)")](https://drive.google.com/file/d/1bkkOhz32u-oy0b1zFEyo1q4bU2vQhi7G/view?usp=sharing "Open resume") [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "Visit my LinkedIn profile")](https://www.linkedin.com/in/satender-kumar-340038264 "LinkedIn") [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white "Send me an email")] (mailto:Satender2698@gmail.com "Email Satender")
 
 ---
 
 ## About me
-I hold an MCA and completed an internship as a Salesforce Administrator at Barco. I focus on building reliable web interfaces, designing efficient databases, and delivering pragmatic cloud solutions. I value maintainable code, clear documentation, and practical results.
+I hold an MCA and completed internships as a Salesforce Administrator at Barco and as a Frontend Intern at Outrix. I focus on building reliable web interfaces, designing efficient databases, and delivering pragmatic cloud solutions. I value maintainable code, clear documentation, and practical results.
 
 ---
 
